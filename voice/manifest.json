@@ -1,0 +1,757 @@
+{
+ "en": {
+  "village.graufurt": "village.graufurt.mp3",
+  "village.nebelried": "village.nebelried.mp3",
+  "village.sanktelms": "village.sanktelms.mp3",
+  "roles.deal.0": "roles.deal.0.mp3",
+  "night.fall.0": "night.fall.0.mp3",
+  "night.fall.1": "night.fall.1.mp3",
+  "night.fall.2": "night.fall.2.mp3",
+  "night.late.0": "night.late.0.mp3",
+  "dawn.open.0": "dawn.open.0.mp3",
+  "dawn.open.1": "dawn.open.1.mp3",
+  "dawn.open.2": "dawn.open.2.mp3",
+  "dawn.saved.0": "dawn.saved.0.mp3",
+  "dawn.quiet.0": "dawn.quiet.0.mp3",
+  "flavor.hide.0": "flavor.hide.0.mp3",
+  "day.call.0": "day.call.0.mp3",
+  "day.prompt.0": "day.prompt.0.mp3",
+  "day.prompt.1": "day.prompt.1.mp3",
+  "day.prompt.2": "day.prompt.2.mp3",
+  "day.prompt.3": "day.prompt.3.mp3",
+  "day.prompt.4": "day.prompt.4.mp3",
+  "day.dusk.0": "day.dusk.0.mp3",
+  "vote.call.0": "vote.call.0.mp3",
+  "dusk.right.0": "dusk.right.0.mp3",
+  "dusk.wrong.0": "dusk.wrong.0.mp3",
+  "dusk.close.0": "dusk.close.0.mp3",
+  "dusk.tie.0": "dusk.tie.0.mp3",
+  "hunter.miss.0": "hunter.miss.0.mp3",
+  "over.village.0": "over.village.0.mp3",
+  "over.wolves.0": "over.wolves.0.mp3",
+  "quip.seerOut.0": "quip.seerOut.0.mp3",
+  "quip.witchOut.0": "quip.witchOut.0.mp3",
+  "quip.day1wolf.0": "quip.day1wolf.0.mp3",
+  "quip.tieAgain.0": "quip.tieAgain.0.mp3",
+  "quip.fastVote.0": "quip.fastVote.0.mp3",
+  "quip.timeUp.0": "quip.timeUp.0.mp3",
+  "quip.seerFirst.0": "quip.seerFirst.0.mp3",
+  "quip.poisonWrong.0": "quip.poisonWrong.0.mp3",
+  "quip.poisonRight.0": "quip.poisonRight.0.mp3",
+  "quip.doubleDeath.0": "quip.doubleDeath.0.mp3",
+  "quip.forced.0": "quip.forced.0.mp3",
+  "quip.hunterWolf.0": "quip.hunterWolf.0.mp3",
+  "quip.hunterInnocent.0": "quip.hunterInnocent.0.mp3",
+  "dawn.guarded.0": "dawn.guarded.0.mp3",
+  "c.sleep.all.0": "c.sleep.all.0.mp3",
+  "c.sleep.all.1": "c.sleep.all.1.mp3",
+  "c.sleep.all.2": "c.sleep.all.2.mp3",
+  "c.wake.seer.0": "c.wake.seer.0.mp3",
+  "c.wake.seer.1": "c.wake.seer.1.mp3",
+  "c.sleep.seer.0": "c.sleep.seer.0.mp3",
+  "c.wake.wolf.0": "c.wake.wolf.0.mp3",
+  "c.wake.wolf.1": "c.wake.wolf.1.mp3",
+  "c.sleep.wolf.0": "c.sleep.wolf.0.mp3",
+  "c.wake.witch.0": "c.wake.witch.0.mp3",
+  "c.wake.witch.1": "c.wake.witch.1.mp3",
+  "c.wake.thief.0": "c.wake.thief.0.mp3",
+  "c.sleep.thief.0": "c.sleep.thief.0.mp3",
+  "c.wake.amor.0": "c.wake.amor.0.mp3",
+  "c.sleep.amor.0": "c.sleep.amor.0.mp3",
+  "c.wake.lovers.0": "c.wake.lovers.0.mp3",
+  "c.wake.lovers.1": "c.wake.lovers.1.mp3",
+  "c.sleep.lovers.0": "c.sleep.lovers.0.mp3",
+  "c.elect.table.0": "c.elect.table.0.mp3",
+  "c.elect.phones.0": "c.elect.phones.0.mp3",
+  "c.vote.cap.0": "c.vote.cap.0.mp3",
+  "over.lovers.0": "over.lovers.0.mp3",
+  "c.sleep.witch.0": "c.sleep.witch.0.mp3",
+  "c.wake.all.0": "c.wake.all.0.mp3",
+  "c.wake.all.1": "c.wake.all.1.mp3",
+  "c.wake.all.2": "c.wake.all.2.mp3",
+  "c.vote.table.0": "c.vote.table.0.mp3",
+  "c.vote.phones.0": "c.vote.phones.0.mp3",
+  "c.revote.0": "c.revote.0.mp3"
+ },
+ "de": {
+  "village.graufurt": "village.graufurt.mp3",
+  "village.nebelried": "village.nebelried.mp3",
+  "village.sanktelms": "village.sanktelms.mp3",
+  "roles.deal.0": "roles.deal.0.mp3",
+  "night.fall.0": "night.fall.0.mp3",
+  "night.fall.1": "night.fall.1.mp3",
+  "night.fall.2": "night.fall.2.mp3",
+  "night.late.0": "night.late.0.mp3",
+  "dawn.open.0": "dawn.open.0.mp3",
+  "dawn.open.1": "dawn.open.1.mp3",
+  "dawn.open.2": "dawn.open.2.mp3",
+  "dawn.saved.0": "dawn.saved.0.mp3",
+  "dawn.quiet.0": "dawn.quiet.0.mp3",
+  "flavor.hide.0": "flavor.hide.0.mp3",
+  "day.call.0": "day.call.0.mp3",
+  "day.prompt.0": "day.prompt.0.mp3",
+  "day.prompt.1": "day.prompt.1.mp3",
+  "day.prompt.2": "day.prompt.2.mp3",
+  "day.prompt.3": "day.prompt.3.mp3",
+  "day.prompt.4": "day.prompt.4.mp3",
+  "day.dusk.0": "day.dusk.0.mp3",
+  "vote.call.0": "vote.call.0.mp3",
+  "dusk.right.0": "dusk.right.0.mp3",
+  "dusk.wrong.0": "dusk.wrong.0.mp3",
+  "dusk.close.0": "dusk.close.0.mp3",
+  "dusk.tie.0": "dusk.tie.0.mp3",
+  "hunter.miss.0": "hunter.miss.0.mp3",
+  "over.village.0": "over.village.0.mp3",
+  "over.wolves.0": "over.wolves.0.mp3",
+  "quip.seerOut.0": "quip.seerOut.0.mp3",
+  "quip.witchOut.0": "quip.witchOut.0.mp3",
+  "quip.day1wolf.0": "quip.day1wolf.0.mp3",
+  "quip.tieAgain.0": "quip.tieAgain.0.mp3",
+  "quip.fastVote.0": "quip.fastVote.0.mp3",
+  "quip.timeUp.0": "quip.timeUp.0.mp3",
+  "quip.seerFirst.0": "quip.seerFirst.0.mp3",
+  "quip.poisonWrong.0": "quip.poisonWrong.0.mp3",
+  "quip.poisonRight.0": "quip.poisonRight.0.mp3",
+  "quip.doubleDeath.0": "quip.doubleDeath.0.mp3",
+  "quip.forced.0": "quip.forced.0.mp3",
+  "quip.hunterWolf.0": "quip.hunterWolf.0.mp3",
+  "quip.hunterInnocent.0": "quip.hunterInnocent.0.mp3",
+  "dawn.guarded.0": "dawn.guarded.0.mp3",
+  "c.wake.seer.0": "c.wake.seer.0.mp3",
+  "c.wake.wolf.0": "c.wake.wolf.0.mp3",
+  "c.wake.witch.0": "c.wake.witch.0.mp3",
+  "c.sleep.all.0": "c.sleep.all.0.mp3",
+  "c.sleep.all.1": "c.sleep.all.1.mp3",
+  "c.sleep.all.2": "c.sleep.all.2.mp3",
+  "c.wake.seer.1": "c.wake.seer.1.mp3",
+  "c.sleep.seer.0": "c.sleep.seer.0.mp3",
+  "c.wake.wolf.1": "c.wake.wolf.1.mp3",
+  "c.sleep.wolf.0": "c.sleep.wolf.0.mp3",
+  "c.wake.witch.1": "c.wake.witch.1.mp3",
+  "c.wake.thief.0": "c.wake.thief.0.mp3",
+  "c.sleep.thief.0": "c.sleep.thief.0.mp3",
+  "c.wake.amor.0": "c.wake.amor.0.mp3",
+  "c.sleep.amor.0": "c.sleep.amor.0.mp3",
+  "c.wake.lovers.0": "c.wake.lovers.0.mp3",
+  "c.wake.lovers.1": "c.wake.lovers.1.mp3",
+  "c.sleep.lovers.0": "c.sleep.lovers.0.mp3",
+  "c.elect.table.0": "c.elect.table.0.mp3",
+  "c.elect.phones.0": "c.elect.phones.0.mp3",
+  "c.vote.cap.0": "c.vote.cap.0.mp3",
+  "over.lovers.0": "over.lovers.0.mp3",
+  "c.sleep.witch.0": "c.sleep.witch.0.mp3",
+  "c.wake.all.0": "c.wake.all.0.mp3",
+  "c.wake.all.1": "c.wake.all.1.mp3",
+  "c.wake.all.2": "c.wake.all.2.mp3",
+  "c.vote.table.0": "c.vote.table.0.mp3",
+  "c.vote.phones.0": "c.vote.phones.0.mp3",
+  "c.revote.0": "c.revote.0.mp3"
+ },
+ "sfx": {
+  "night": "night.mp3",
+  "day": "day.mp3",
+  "rooster": "rooster.mp3",
+  "bell": "bell.mp3",
+  "shot": "shot.mp3",
+  "knock": "knock.mp3",
+  "howl": "howl.mp3",
+  "arrow": "arrow.mp3",
+  "cards": "cards.mp3",
+  "drum": "drum.mp3"
+ },
+ "named": {
+  "de": {
+   "death.plain": {
+    "0": {
+     "daniel": "named/death.plain.0.daniel.mp3",
+     "tim": "named/death.plain.0.tim.mp3",
+     "bruno": "named/death.plain.0.bruno.mp3",
+     "ben": "named/death.plain.0.ben.mp3",
+     "noah": "named/death.plain.0.noah.mp3",
+     "lea": "named/death.plain.0.lea.mp3",
+     "pia": "named/death.plain.0.pia.mp3",
+     "julius": "named/death.plain.0.julius.mp3",
+     "melissa": "named/death.plain.0.melissa.mp3",
+     "tom": "named/death.plain.0.tom.mp3",
+     "jacky": "named/death.plain.0.jacky.mp3",
+     "shanice": "named/death.plain.0.shanice.mp3",
+     "sunshine": "named/death.plain.0.sunshine.mp3",
+     "greta": "named/death.plain.0.greta.mp3",
+     "anton": "named/death.plain.0.anton.mp3",
+     "ida": "named/death.plain.0.ida.mp3",
+     "emil": "named/death.plain.0.emil.mp3",
+     "frieda": "named/death.plain.0.frieda.mp3",
+     "oskar": "named/death.plain.0.oskar.mp3",
+     "hilde": "named/death.plain.0.hilde.mp3",
+     "moritz": "named/death.plain.0.moritz.mp3",
+     "luis": "named/death.plain.0.luis.mp3",
+     "zoltan": "named/death.plain.0.zoltan.mp3",
+     "mulli": "named/death.plain.0.mulli.mp3",
+     "emma": "named/death.plain.0.emma.mp3",
+     "theo": "named/death.plain.0.theo.mp3",
+     "philipp": "named/death.plain.0.philipp.mp3",
+     "lisa": "named/death.plain.0.lisa.mp3",
+     "alexander": "named/death.plain.0.alexander.mp3"
+    },
+    "1": {
+     "daniel": "named/death.plain.1.daniel.mp3",
+     "tim": "named/death.plain.1.tim.mp3",
+     "bruno": "named/death.plain.1.bruno.mp3",
+     "ben": "named/death.plain.1.ben.mp3",
+     "noah": "named/death.plain.1.noah.mp3",
+     "lea": "named/death.plain.1.lea.mp3",
+     "pia": "named/death.plain.1.pia.mp3",
+     "julius": "named/death.plain.1.julius.mp3",
+     "melissa": "named/death.plain.1.melissa.mp3",
+     "tom": "named/death.plain.1.tom.mp3",
+     "jacky": "named/death.plain.1.jacky.mp3",
+     "shanice": "named/death.plain.1.shanice.mp3",
+     "sunshine": "named/death.plain.1.sunshine.mp3",
+     "greta": "named/death.plain.1.greta.mp3",
+     "anton": "named/death.plain.1.anton.mp3",
+     "ida": "named/death.plain.1.ida.mp3",
+     "emil": "named/death.plain.1.emil.mp3",
+     "frieda": "named/death.plain.1.frieda.mp3",
+     "oskar": "named/death.plain.1.oskar.mp3",
+     "hilde": "named/death.plain.1.hilde.mp3",
+     "moritz": "named/death.plain.1.moritz.mp3",
+     "luis": "named/death.plain.1.luis.mp3",
+     "zoltan": "named/death.plain.1.zoltan.mp3",
+     "mulli": "named/death.plain.1.mulli.mp3",
+     "emma": "named/death.plain.1.emma.mp3",
+     "theo": "named/death.plain.1.theo.mp3",
+     "philipp": "named/death.plain.1.philipp.mp3",
+     "lisa": "named/death.plain.1.lisa.mp3",
+     "alexander": "named/death.plain.1.alexander.mp3"
+    },
+    "2": {
+     "daniel": "named/death.plain.2.daniel.mp3",
+     "tim": "named/death.plain.2.tim.mp3",
+     "bruno": "named/death.plain.2.bruno.mp3",
+     "ben": "named/death.plain.2.ben.mp3",
+     "noah": "named/death.plain.2.noah.mp3",
+     "lea": "named/death.plain.2.lea.mp3",
+     "pia": "named/death.plain.2.pia.mp3",
+     "julius": "named/death.plain.2.julius.mp3",
+     "melissa": "named/death.plain.2.melissa.mp3",
+     "tom": "named/death.plain.2.tom.mp3",
+     "jacky": "named/death.plain.2.jacky.mp3",
+     "shanice": "named/death.plain.2.shanice.mp3",
+     "sunshine": "named/death.plain.2.sunshine.mp3",
+     "greta": "named/death.plain.2.greta.mp3",
+     "anton": "named/death.plain.2.anton.mp3",
+     "ida": "named/death.plain.2.ida.mp3",
+     "emil": "named/death.plain.2.emil.mp3",
+     "frieda": "named/death.plain.2.frieda.mp3",
+     "oskar": "named/death.plain.2.oskar.mp3",
+     "hilde": "named/death.plain.2.hilde.mp3",
+     "moritz": "named/death.plain.2.moritz.mp3",
+     "luis": "named/death.plain.2.luis.mp3",
+     "zoltan": "named/death.plain.2.zoltan.mp3",
+     "mulli": "named/death.plain.2.mulli.mp3",
+     "emma": "named/death.plain.2.emma.mp3",
+     "theo": "named/death.plain.2.theo.mp3",
+     "philipp": "named/death.plain.2.philipp.mp3",
+     "lisa": "named/death.plain.2.lisa.mp3",
+     "alexander": "named/death.plain.2.alexander.mp3"
+    }
+   },
+   "death.poison": {
+    "0": {
+     "shanice": "named/death.poison.0.shanice.mp3",
+     "daniel": "named/death.poison.0.daniel.mp3",
+     "tim": "named/death.poison.0.tim.mp3",
+     "bruno": "named/death.poison.0.bruno.mp3",
+     "ben": "named/death.poison.0.ben.mp3",
+     "noah": "named/death.poison.0.noah.mp3",
+     "lea": "named/death.poison.0.lea.mp3",
+     "pia": "named/death.poison.0.pia.mp3",
+     "julius": "named/death.poison.0.julius.mp3",
+     "melissa": "named/death.poison.0.melissa.mp3",
+     "tom": "named/death.poison.0.tom.mp3",
+     "jacky": "named/death.poison.0.jacky.mp3",
+     "sunshine": "named/death.poison.0.sunshine.mp3",
+     "greta": "named/death.poison.0.greta.mp3",
+     "anton": "named/death.poison.0.anton.mp3",
+     "ida": "named/death.poison.0.ida.mp3",
+     "emil": "named/death.poison.0.emil.mp3",
+     "frieda": "named/death.poison.0.frieda.mp3",
+     "oskar": "named/death.poison.0.oskar.mp3",
+     "hilde": "named/death.poison.0.hilde.mp3",
+     "moritz": "named/death.poison.0.moritz.mp3",
+     "luis": "named/death.poison.0.luis.mp3",
+     "zoltan": "named/death.poison.0.zoltan.mp3",
+     "mulli": "named/death.poison.0.mulli.mp3",
+     "emma": "named/death.poison.0.emma.mp3",
+     "theo": "named/death.poison.0.theo.mp3",
+     "philipp": "named/death.poison.0.philipp.mp3",
+     "lisa": "named/death.poison.0.lisa.mp3",
+     "alexander": "named/death.poison.0.alexander.mp3"
+    }
+   },
+   "dusk.lynch": {
+    "0": {
+     "daniel": "named/dusk.lynch.0.daniel.mp3",
+     "tim": "named/dusk.lynch.0.tim.mp3",
+     "bruno": "named/dusk.lynch.0.bruno.mp3",
+     "ben": "named/dusk.lynch.0.ben.mp3",
+     "noah": "named/dusk.lynch.0.noah.mp3",
+     "lea": "named/dusk.lynch.0.lea.mp3",
+     "pia": "named/dusk.lynch.0.pia.mp3",
+     "julius": "named/dusk.lynch.0.julius.mp3",
+     "melissa": "named/dusk.lynch.0.melissa.mp3",
+     "tom": "named/dusk.lynch.0.tom.mp3",
+     "jacky": "named/dusk.lynch.0.jacky.mp3",
+     "shanice": "named/dusk.lynch.0.shanice.mp3",
+     "sunshine": "named/dusk.lynch.0.sunshine.mp3",
+     "greta": "named/dusk.lynch.0.greta.mp3",
+     "anton": "named/dusk.lynch.0.anton.mp3",
+     "ida": "named/dusk.lynch.0.ida.mp3",
+     "emil": "named/dusk.lynch.0.emil.mp3",
+     "frieda": "named/dusk.lynch.0.frieda.mp3",
+     "oskar": "named/dusk.lynch.0.oskar.mp3",
+     "hilde": "named/dusk.lynch.0.hilde.mp3",
+     "moritz": "named/dusk.lynch.0.moritz.mp3",
+     "luis": "named/dusk.lynch.0.luis.mp3",
+     "zoltan": "named/dusk.lynch.0.zoltan.mp3",
+     "mulli": "named/dusk.lynch.0.mulli.mp3",
+     "emma": "named/dusk.lynch.0.emma.mp3",
+     "theo": "named/dusk.lynch.0.theo.mp3",
+     "philipp": "named/dusk.lynch.0.philipp.mp3",
+     "lisa": "named/dusk.lynch.0.lisa.mp3",
+     "alexander": "named/dusk.lynch.0.alexander.mp3"
+    },
+    "1": {
+     "daniel": "named/dusk.lynch.1.daniel.mp3",
+     "tim": "named/dusk.lynch.1.tim.mp3",
+     "bruno": "named/dusk.lynch.1.bruno.mp3",
+     "ben": "named/dusk.lynch.1.ben.mp3",
+     "noah": "named/dusk.lynch.1.noah.mp3",
+     "lea": "named/dusk.lynch.1.lea.mp3",
+     "pia": "named/dusk.lynch.1.pia.mp3",
+     "julius": "named/dusk.lynch.1.julius.mp3",
+     "melissa": "named/dusk.lynch.1.melissa.mp3",
+     "tom": "named/dusk.lynch.1.tom.mp3",
+     "jacky": "named/dusk.lynch.1.jacky.mp3",
+     "shanice": "named/dusk.lynch.1.shanice.mp3",
+     "sunshine": "named/dusk.lynch.1.sunshine.mp3",
+     "greta": "named/dusk.lynch.1.greta.mp3",
+     "anton": "named/dusk.lynch.1.anton.mp3",
+     "ida": "named/dusk.lynch.1.ida.mp3",
+     "emil": "named/dusk.lynch.1.emil.mp3",
+     "frieda": "named/dusk.lynch.1.frieda.mp3",
+     "oskar": "named/dusk.lynch.1.oskar.mp3",
+     "hilde": "named/dusk.lynch.1.hilde.mp3",
+     "moritz": "named/dusk.lynch.1.moritz.mp3",
+     "luis": "named/dusk.lynch.1.luis.mp3",
+     "zoltan": "named/dusk.lynch.1.zoltan.mp3",
+     "mulli": "named/dusk.lynch.1.mulli.mp3",
+     "emma": "named/dusk.lynch.1.emma.mp3",
+     "theo": "named/dusk.lynch.1.theo.mp3",
+     "philipp": "named/dusk.lynch.1.philipp.mp3",
+     "lisa": "named/dusk.lynch.1.lisa.mp3",
+     "alexander": "named/dusk.lynch.1.alexander.mp3"
+    },
+    "2": {
+     "daniel": "named/dusk.lynch.2.daniel.mp3",
+     "tim": "named/dusk.lynch.2.tim.mp3",
+     "bruno": "named/dusk.lynch.2.bruno.mp3",
+     "ben": "named/dusk.lynch.2.ben.mp3",
+     "noah": "named/dusk.lynch.2.noah.mp3",
+     "lea": "named/dusk.lynch.2.lea.mp3",
+     "pia": "named/dusk.lynch.2.pia.mp3",
+     "julius": "named/dusk.lynch.2.julius.mp3",
+     "melissa": "named/dusk.lynch.2.melissa.mp3",
+     "tom": "named/dusk.lynch.2.tom.mp3",
+     "jacky": "named/dusk.lynch.2.jacky.mp3",
+     "shanice": "named/dusk.lynch.2.shanice.mp3",
+     "sunshine": "named/dusk.lynch.2.sunshine.mp3",
+     "greta": "named/dusk.lynch.2.greta.mp3",
+     "anton": "named/dusk.lynch.2.anton.mp3",
+     "ida": "named/dusk.lynch.2.ida.mp3",
+     "emil": "named/dusk.lynch.2.emil.mp3",
+     "frieda": "named/dusk.lynch.2.frieda.mp3",
+     "oskar": "named/dusk.lynch.2.oskar.mp3",
+     "hilde": "named/dusk.lynch.2.hilde.mp3",
+     "moritz": "named/dusk.lynch.2.moritz.mp3",
+     "luis": "named/dusk.lynch.2.luis.mp3",
+     "zoltan": "named/dusk.lynch.2.zoltan.mp3",
+     "mulli": "named/dusk.lynch.2.mulli.mp3",
+     "emma": "named/dusk.lynch.2.emma.mp3",
+     "theo": "named/dusk.lynch.2.theo.mp3",
+     "philipp": "named/dusk.lynch.2.philipp.mp3",
+     "lisa": "named/dusk.lynch.2.lisa.mp3",
+     "alexander": "named/dusk.lynch.2.alexander.mp3"
+    }
+   },
+   "hunter.aim": {
+    "0": {
+     "daniel": "named/hunter.aim.0.daniel.mp3",
+     "tim": "named/hunter.aim.0.tim.mp3",
+     "bruno": "named/hunter.aim.0.bruno.mp3",
+     "ben": "named/hunter.aim.0.ben.mp3",
+     "noah": "named/hunter.aim.0.noah.mp3",
+     "lea": "named/hunter.aim.0.lea.mp3",
+     "pia": "named/hunter.aim.0.pia.mp3",
+     "julius": "named/hunter.aim.0.julius.mp3",
+     "melissa": "named/hunter.aim.0.melissa.mp3",
+     "tom": "named/hunter.aim.0.tom.mp3",
+     "jacky": "named/hunter.aim.0.jacky.mp3",
+     "shanice": "named/hunter.aim.0.shanice.mp3",
+     "sunshine": "named/hunter.aim.0.sunshine.mp3",
+     "greta": "named/hunter.aim.0.greta.mp3",
+     "anton": "named/hunter.aim.0.anton.mp3",
+     "ida": "named/hunter.aim.0.ida.mp3",
+     "emil": "named/hunter.aim.0.emil.mp3",
+     "frieda": "named/hunter.aim.0.frieda.mp3",
+     "oskar": "named/hunter.aim.0.oskar.mp3",
+     "hilde": "named/hunter.aim.0.hilde.mp3",
+     "moritz": "named/hunter.aim.0.moritz.mp3",
+     "luis": "named/hunter.aim.0.luis.mp3",
+     "zoltan": "named/hunter.aim.0.zoltan.mp3",
+     "mulli": "named/hunter.aim.0.mulli.mp3",
+     "emma": "named/hunter.aim.0.emma.mp3",
+     "theo": "named/hunter.aim.0.theo.mp3",
+     "philipp": "named/hunter.aim.0.philipp.mp3",
+     "lisa": "named/hunter.aim.0.lisa.mp3",
+     "alexander": "named/hunter.aim.0.alexander.mp3"
+    }
+   },
+   "hunter.shot": {
+    "0": {
+     "daniel": "named/hunter.shot.0.daniel.mp3",
+     "tim": "named/hunter.shot.0.tim.mp3",
+     "bruno": "named/hunter.shot.0.bruno.mp3",
+     "ben": "named/hunter.shot.0.ben.mp3",
+     "noah": "named/hunter.shot.0.noah.mp3",
+     "lea": "named/hunter.shot.0.lea.mp3",
+     "pia": "named/hunter.shot.0.pia.mp3",
+     "julius": "named/hunter.shot.0.julius.mp3",
+     "melissa": "named/hunter.shot.0.melissa.mp3",
+     "tom": "named/hunter.shot.0.tom.mp3",
+     "jacky": "named/hunter.shot.0.jacky.mp3",
+     "shanice": "named/hunter.shot.0.shanice.mp3",
+     "sunshine": "named/hunter.shot.0.sunshine.mp3",
+     "greta": "named/hunter.shot.0.greta.mp3",
+     "anton": "named/hunter.shot.0.anton.mp3",
+     "ida": "named/hunter.shot.0.ida.mp3",
+     "emil": "named/hunter.shot.0.emil.mp3",
+     "frieda": "named/hunter.shot.0.frieda.mp3",
+     "oskar": "named/hunter.shot.0.oskar.mp3",
+     "hilde": "named/hunter.shot.0.hilde.mp3",
+     "moritz": "named/hunter.shot.0.moritz.mp3",
+     "luis": "named/hunter.shot.0.luis.mp3",
+     "zoltan": "named/hunter.shot.0.zoltan.mp3",
+     "mulli": "named/hunter.shot.0.mulli.mp3",
+     "emma": "named/hunter.shot.0.emma.mp3",
+     "theo": "named/hunter.shot.0.theo.mp3",
+     "philipp": "named/hunter.shot.0.philipp.mp3",
+     "lisa": "named/hunter.shot.0.lisa.mp3",
+     "alexander": "named/hunter.shot.0.alexander.mp3"
+    }
+   }
+  },
+  "en": {}
+ },
+ "clips": {
+  "de": {
+   "jacky": {
+    "quiet": "names/jacky.quiet.mp3",
+    "firm": "names/jacky.firm.mp3"
+   },
+   "sunshine": {
+    "quiet": "names/sunshine.quiet.mp3",
+    "firm": "names/sunshine.firm.mp3"
+   },
+   "daniel": {
+    "quiet": "names/daniel.quiet.mp3",
+    "firm": "names/daniel.firm.mp3"
+   },
+   "tim": {
+    "quiet": "names/tim.quiet.mp3",
+    "firm": "names/tim.firm.mp3"
+   },
+   "bruno": {
+    "quiet": "names/bruno.quiet.mp3",
+    "firm": "names/bruno.firm.mp3"
+   },
+   "ben": {
+    "quiet": "names/ben.quiet.mp3",
+    "firm": "names/ben.firm.mp3"
+   },
+   "noah": {
+    "quiet": "names/noah.quiet.mp3",
+    "firm": "names/noah.firm.mp3"
+   },
+   "lea": {
+    "quiet": "names/lea.quiet.mp3",
+    "firm": "names/lea.firm.mp3"
+   },
+   "pia": {
+    "quiet": "names/pia.quiet.mp3",
+    "firm": "names/pia.firm.mp3"
+   },
+   "julius": {
+    "quiet": "names/julius.quiet.mp3",
+    "firm": "names/julius.firm.mp3"
+   },
+   "melissa": {
+    "quiet": "names/melissa.quiet.mp3",
+    "firm": "names/melissa.firm.mp3"
+   },
+   "tom": {
+    "quiet": "names/tom.quiet.mp3",
+    "firm": "names/tom.firm.mp3"
+   },
+   "shanice": {
+    "quiet": "names/shanice.quiet.mp3",
+    "firm": "names/shanice.firm.mp3"
+   },
+   "greta": {
+    "quiet": "names/greta.quiet.mp3",
+    "firm": "names/greta.firm.mp3"
+   },
+   "anton": {
+    "quiet": "names/anton.quiet.mp3",
+    "firm": "names/anton.firm.mp3"
+   },
+   "ida": {
+    "quiet": "names/ida.quiet.mp3",
+    "firm": "names/ida.firm.mp3"
+   },
+   "emil": {
+    "quiet": "names/emil.quiet.mp3",
+    "firm": "names/emil.firm.mp3"
+   },
+   "frieda": {
+    "quiet": "names/frieda.quiet.mp3",
+    "firm": "names/frieda.firm.mp3"
+   },
+   "oskar": {
+    "quiet": "names/oskar.quiet.mp3",
+    "firm": "names/oskar.firm.mp3"
+   },
+   "hilde": {
+    "quiet": "names/hilde.quiet.mp3",
+    "firm": "names/hilde.firm.mp3"
+   },
+   "moritz": {
+    "quiet": "names/moritz.quiet.mp3",
+    "firm": "names/moritz.firm.mp3"
+   },
+   "luis": {
+    "quiet": "names/luis.quiet.mp3",
+    "firm": "names/luis.firm.mp3"
+   },
+   "zoltan": {
+    "quiet": "names/zoltan.quiet.mp3",
+    "firm": "names/zoltan.firm.mp3"
+   },
+   "mulli": {
+    "quiet": "names/mulli.quiet.mp3",
+    "firm": "names/mulli.firm.mp3"
+   },
+   "emma": {
+    "quiet": "names/emma.quiet.mp3",
+    "firm": "names/emma.firm.mp3"
+   },
+   "theo": {
+    "quiet": "names/theo.quiet.mp3",
+    "firm": "names/theo.firm.mp3"
+   },
+   "philipp": {
+    "quiet": "names/philipp.quiet.mp3",
+    "firm": "names/philipp.firm.mp3"
+   },
+   "lisa": {
+    "quiet": "names/lisa.quiet.mp3",
+    "firm": "names/lisa.firm.mp3"
+   },
+   "alexander": {
+    "quiet": "names/alexander.quiet.mp3",
+    "firm": "names/alexander.firm.mp3"
+   }
+  },
+  "en": {
+   "daniel": {
+    "quiet": "names/daniel.quiet.mp3",
+    "firm": "names/daniel.firm.mp3"
+   },
+   "lea": {
+    "quiet": "names/lea.quiet.mp3",
+    "firm": "names/lea.firm.mp3"
+   },
+   "pia": {
+    "quiet": "names/pia.quiet.mp3",
+    "firm": "names/pia.firm.mp3"
+   },
+   "julius": {
+    "quiet": "names/julius.quiet.mp3",
+    "firm": "names/julius.firm.mp3"
+   },
+   "frieda": {
+    "quiet": "names/frieda.quiet.mp3",
+    "firm": "names/frieda.firm.mp3"
+   },
+   "hilde": {
+    "quiet": "names/hilde.quiet.mp3",
+    "firm": "names/hilde.firm.mp3"
+   },
+   "moritz": {
+    "quiet": "names/moritz.quiet.mp3",
+    "firm": "names/moritz.firm.mp3"
+   },
+   "zoltan": {
+    "quiet": "names/zoltan.quiet.mp3",
+    "firm": "names/zoltan.firm.mp3"
+   },
+   "mulli": {
+    "quiet": "names/mulli.quiet.mp3",
+    "firm": "names/mulli.firm.mp3"
+   },
+   "philipp": {
+    "quiet": "names/philipp.quiet.mp3",
+    "firm": "names/philipp.firm.mp3"
+   }
+  }
+ },
+ "free": {
+  "de": {
+   "dawn.knock1.0": {
+    "file": "free/dawn.knock1.0.mp3",
+    "names": [
+     "a"
+    ],
+    "clip": "quiet"
+   },
+   "dawn.knock2.0": {
+    "file": "free/dawn.knock2.0.mp3",
+    "names": [
+     "a",
+     "b"
+    ],
+    "clip": "quiet"
+   },
+   "dawn.knock3.0": {
+    "file": "free/dawn.knock3.0.mp3",
+    "names": [
+     "a",
+     "b",
+     "c"
+    ],
+    "clip": "quiet"
+   },
+   "dawn.seen.0": {
+    "file": "free/dawn.seen.0.mp3",
+    "names": [
+     "a",
+     "b",
+     "c"
+    ],
+    "clip": "quiet"
+   },
+   "dawn.seen4.0": {
+    "file": "free/dawn.seen4.0.mp3",
+    "names": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ],
+    "clip": "quiet"
+   },
+   "flavor.suspect.0": {
+    "file": "free/flavor.suspect.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "quiet"
+   },
+   "cap.elected.0": {
+    "file": "free/cap.elected.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   },
+   "cap.heir.0": {
+    "file": "free/cap.heir.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   },
+   "cap.new.0": {
+    "file": "free/cap.new.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   },
+   "c.grief.0": {
+    "file": "free/c.grief.0.mp3",
+    "names": [
+     "other",
+     "name"
+    ],
+    "clip": "quiet"
+   },
+   "death.grief.0": {
+    "file": "free/death.grief.0.mp3",
+    "names": [
+     "other",
+     "name"
+    ],
+    "clip": "quiet"
+   },
+   "quip.unanimous.0": {
+    "file": "free/quip.unanimous.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   },
+   "quip.abstain.0": {
+    "file": "free/quip.abstain.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   },
+   "quip.suspectedDied.0": {
+    "file": "free/quip.suspectedDied.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "quiet"
+   },
+   "award.busser.0": {
+    "file": "free/award.busser.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   },
+   "award.trusted.0": {
+    "file": "free/award.trusted.0.mp3",
+    "names": [
+     "name"
+    ],
+    "clip": "firm"
+   }
+  },
+  "en": {}
+ },
+ "aliases": {
+  "dani": "daniel",
+  "jackie": "jacky",
+  "lea": "lea",
+  "jule": "julius",
+  "jules": "julius",
+  "mel": "melissa",
+  "tommy": "tom",
+  "timmy": "tim",
+  "shani": "shanice",
+  "melisa": "melissa"
+ }
+}
